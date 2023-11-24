@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: MyBlog  # Website name
-baseURL: 'https://inquisitive-wisp-ecc9f8.netlify.app/' # Website URL
+baseURL: 'BahodurTursunov.github.io' # Website URL
 
 ############################
 ## LANGUAGE
