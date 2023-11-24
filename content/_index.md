@@ -65,7 +65,7 @@ sections:
         - title: Intern
           company: ItService
           company_url: 'https://itservice.tj/'
-          company_logo: org-gc
+          company_logo: org-it
           location: Khujand
           date_start: '2023-08-21'
           date_end: '2023-10-01'
