@@ -234,18 +234,18 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Here you can get contact with me
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: tursunovb18@gmail.com
+      phone: +992928650046
+      appointment_url: 'https://tursunovb18@gmail.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Street Mir Z.P. Khojaev 4
+        city: Khujand
+        region: Sugd
+        postcode: '735700'
+        country: Tajikistan
+        country_code: TJ  
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
