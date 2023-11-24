@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 
+title: Bahodurkhon A. Tursunov
 
 # Name pronunciation (optional)
-name_pronunciation: Tursunov Bahodurkhon
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Bahodurknon
 last_name: Azimjonovich
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -20,12 +20,12 @@ superuser: true
 role: Coder
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: PFUR
-    url: https://rudn.ru
+# organizations:
+#   - name: PFUR
+#     url: https://rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -123,6 +123,6 @@ social:
 highlight_name: true
 ---
 
-I am Tursunov Bakhodurhon Azimdzhonovich, I am self-developing and learning English. I study .NET, ASP.NET Core. I graduated this year from university. I have two bachelor's degrees. One of them is Fundamental Computer Science and the second one is Computer Science Teacher.
+I am Tursunov Bahodurkhon Azimjonovich, I am self-developing and learning English. I study .NET, ASP.NET Core. I graduated this year from university. I have two bachelor's degrees. One of them is Fundamental Computer Science and the second one is Computer Science Teacher.
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
